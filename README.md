@@ -7,20 +7,29 @@
 
 Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, eu ficarei honrada com sua participação 
 
-<h2>Dia 01 - Ícone de mídia social em camadas</h2> 
-![Gravação de tela de 13-12-2022 19_47_16 (1)](https://user-images.githubusercontent.com/99148011/207463153-3aae4d12-1b82-4916-8a36-728eb651a775.gif)
+<div><h2>Dia 01 - Ícone de mídia social em camadas</h2></div>
 
+![Gravação de tela de 13-12-2022 19_47_16 (1)](https://user-images.githubusercontent.com/99148011/207683535-fd84d673-888a-43f0-a67a-a7848f32116a.gif)
+
+<div>
 <li> Criar as camadas utilizando a tag <span> </li>
 <li> tranformação 2D ou 3D de um elemento </li>
 <li> Transições CSS </li>
 <li> Opacidade / transparência do CSS </li>
 <li> hover </li>
 <li> nth-child () </li>
+</div>
 
-<h2>Dia 02 - Loader animado</h2> 
+<div><h2>Dia 02 - Loader animado</h2></div>
+
 ![Gravação de tela de 14-12-2022 14_37_31](https://user-images.githubusercontent.com/99148011/207667659-988e0550-20c4-4cac-a589-26bd8bf653fc.gif)
+
+<div>
 <li>Sobrepor usando posicionamento absolute</li>
 <li>animations</li>
 <li>keyframe</li>
+</div>
 
-<h2>Dia 03 - Mudança de cor de texto quando entra em outra div</h2> 
+<div><h2>Dia 03 - Mudança de cor de texto quando entra em outra div</h2></div>
+<div>
+</div>
