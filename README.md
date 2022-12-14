@@ -7,7 +7,7 @@
 
 Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, eu ficarei honrada com sua participação 
 <div>
-   <li><a href="https://github.com/ceciliacaporale/30DiasDeCSS#dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas)">Dia 01 - Ícone de mídia social em camadas</a></li>
+   <li><a href="https://github.com/ceciliacaporale/30DiasDeCSS#dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Dia 01 - Ícone de mídia social em camadas</a></li>
    <li><a href="https://github.com/ceciliacaporale/30DiasDeCSS#dia-02---loader-animado">Dia 02 - Loader animado</a></li>
 <!--    <li><a href=""></a></li>
    <li><a href=""></a></li>
