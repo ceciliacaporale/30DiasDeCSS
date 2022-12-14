@@ -1,4 +1,5 @@
 # 30DiasDeCSS :heartpulse:
+<div align="center">:construction: Projeto em construção :construction:</div>
 30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3. 
 Criadora do desafio: https://github.com/MilenaCarecho
 # Objetivo
@@ -21,3 +22,5 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 <li>Sobrepor usando posicionamento absolute</li>
 <li>animations</li>
 <li>keyframe</li>
+
+# Dia 03 - Mudança de cor de texto quando entra em outra div
