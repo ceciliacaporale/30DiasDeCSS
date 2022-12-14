@@ -17,3 +17,7 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 <li> nth-child () </li>
 
 # Dia 02 - Loader animado
+![Gravação de tela de 14-12-2022 14_37_31](https://user-images.githubusercontent.com/99148011/207667659-988e0550-20c4-4cac-a589-26bd8bf653fc.gif)
+<li>Sobrepor usando posicionamento absolute</li>
+<li>animations</li>
+<li>keyframe</li>
