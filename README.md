@@ -34,7 +34,8 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 
 <div><h2>Dia 02 - Loader animado</h2></div>
 
-![Gravação de tela de 14-12-2022 14_37_31](https://user-images.githubusercontent.com/99148011/207667659-988e0550-20c4-4cac-a589-26bd8bf653fc.gif)
+![Gravação de tela de 14-12-2022 14_37_31](https://user-images.githubusercontent.com/99148011/207698637-1d3160c2-7149-4ecd-93db-af7dcab8d932.gif)
+
 
 <div>
 <li>Sobrepor usando posicionamento absolute</li>
@@ -43,5 +44,15 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 </div>
 
 <div><h2>Dia 03 - Mudança de cor de texto quando entra em outra div</h2></div>
+
+![Gravação de tela de 14-12-2022 16_35_38 (1)](https://user-images.githubusercontent.com/99148011/207698265-c8795f63-ee5a-4857-b2ae-eac1512f32ce.gif)
+
+<div>
+<li>Fonts Google</li>
+<li>animations</li>
+<li>CSS Text</li>
+</div>
+
+<div><h2>Desafio dia 04 - Botão com efeito</h2></div>
 <div>
 </div>
