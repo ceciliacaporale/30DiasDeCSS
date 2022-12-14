@@ -16,4 +16,4 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 <li> hover </li>
 <li> nth-child () </li>
 
-#Dia 02 - Loader animado
+# Dia 02 - Loader animado
