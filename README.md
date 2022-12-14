@@ -6,6 +6,18 @@
 30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 20 de Julho de 2020, que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de projetos
 
 Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, eu ficarei honrada com sua participação 
+<div>
+   <li><a href="https://github.com/ceciliacaporale/30DiasDeCSS#dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas)">Dia 01 - Ícone de mídia social em camadas</a></li>
+   <li><a href="https://github.com/ceciliacaporale/30DiasDeCSS#dia-02---loader-animado">Dia 02 - Loader animado</a></li>
+<!--    <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li> -->
+</div>
 
 <div><h2>Dia 01 - Ícone de mídia social em camadas</h2></div>
 
