@@ -54,5 +54,14 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 </div>
 
 <div><h2>Desafio dia 04 - Botão com efeito</h2></div>
+
+![Gravação de tela de 15-12-2022 15_38_30](https://user-images.githubusercontent.com/99148011/207941292-9d781c3a-ac89-4f0a-82e3-05b76c74a86d.gif)
+
+
 <div>
+<li>:hover</li>
+<li>::before</li></li></li></li>
+<li>::after</li></li></li>
+<li>Transições</li></li>
+<li>transformação</li>
 </div>
