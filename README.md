@@ -9,14 +9,14 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 <div>
    <li><a href="https://github.com/ceciliacaporale/30DiasDeCSS#dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Dia 01 - Ícone de mídia social em camadas</a></li>
    <li><a href="https://github.com/ceciliacaporale/30DiasDeCSS#dia-02---loader-animado">Dia 02 - Loader animado</a></li>
+   <li><a href="https://github.com/ceciliacaporale/30DiasDeCSS#dia-03---mudan%C3%A7a-de-cor-de-texto-quando-entra-em-outra-div">Dia 03 - Mudança de cor de texto quando entra em outra div</a></li>
 <!--    <li><a href=""></a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li> -->
+   <li><a href=""></a></li> --> 
 </div>
 
 <div><h2>Dia 01 - Ícone de mídia social em camadas</h2></div>
