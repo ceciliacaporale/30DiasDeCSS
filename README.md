@@ -69,6 +69,7 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 <div><h2>Desafio dia 05 - Efeito pulsar</h2></div>
 
 ![Gravação de tela de 16-12-2022 13_47_56](https://user-images.githubusercontent.com/99148011/208148242-438ee706-287a-41d9-96f6-fe2e065d1ce3.gif)
-<li></li>
-<li></li>
-<li></li>
+<li>@keyframe</li>
+<li>Opacidade | Transparência</li>
+<li>Animations</li>
+<li>Absolute</li>
