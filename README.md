@@ -73,3 +73,5 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 <li>Opacidade | Transparência</li>
 <li>Animations</li>
 <li>Absolute</li>
+
+<div><h2>Desafio dia 06 - Efeito lightning text</h2></div>
