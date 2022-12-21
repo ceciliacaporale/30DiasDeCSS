@@ -75,3 +75,10 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 <li>Absolute</li>
 
 <div><h2>Desafio dia 06 - Efeito lightning text</h2></div>
+
+![Gravação de tela de 21-12-2022 14_06_57](https://user-images.githubusercontent.com/99148011/208963649-86ffe734-0b20-4873-82b0-f1f9057a52c0.gif)
+
+<li></li>
+<li></li>
+<li></li>
+<li></li>
